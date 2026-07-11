@@ -79,13 +79,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/yash-singhal-02/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/yash-singhal-02/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/yash-singhal-02/Leetcode/tree/master/0146-lru-cache) |
+| [0232-implement-queue-using-stacks](https://github.com/yash-singhal-02/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/yash-singhal-02/Leetcode/tree/master/0146-lru-cache) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/yash-singhal-02/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
