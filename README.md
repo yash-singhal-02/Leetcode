@@ -9,17 +9,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yash-singhal-02/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/yash-singhal-02/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/yash-singhal-02/Leetcode/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yash-singhal-02/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/yash-singhal-02/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/yash-singhal-02/Leetcode/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yash-singhal-02/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/yash-singhal-02/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash-singhal-02/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/yash-singhal-02/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yash-singhal-02/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
 | ------- |
