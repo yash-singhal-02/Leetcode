@@ -85,12 +85,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/yash-singhal-02/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yash-singhal-02/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/yash-singhal-02/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/yash-singhal-02/Leetcode/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/yash-singhal-02/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yash-singhal-02/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Doubly-Linked List
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/yash-singhal-02/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yash-singhal-02/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Binary Search
 |  |
