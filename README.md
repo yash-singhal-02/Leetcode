@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/yash-singhal-02/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/yash-singhal-02/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0622-design-circular-queue](https://github.com/yash-singhal-02/Leetcode/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/yash-singhal-02/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/yash-singhal-02/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/yash-singhal-02/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/yash-singhal-02/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/yash-singhal-02/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/yash-singhal-02/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/yash-singhal-02/Leetcode/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/yash-singhal-02/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yash-singhal-02/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/yash-singhal-02/Leetcode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/yash-singhal-02/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yash-singhal-02/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/yash-singhal-02/Leetcode/tree/master/0622-design-circular-queue) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yash-singhal-02/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yash-singhal-02/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/yash-singhal-02/Leetcode/tree/master/0622-design-circular-queue) |
 ## Binary Search
 |  |
 | ------- |
