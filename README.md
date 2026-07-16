@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/yash-singhal-02/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1004-max-consecutive-ones-iii](https://github.com/yash-singhal-02/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Stack
 |  |
@@ -122,4 +123,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yash-singhal-02/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/yash-singhal-02/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/yash-singhal-02/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/yash-singhal-02/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
