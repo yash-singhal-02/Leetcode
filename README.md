@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/yash-singhal-02/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/yash-singhal-02/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/yash-singhal-02/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1260-shift-2d-grid](https://github.com/yash-singhal-02/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yash-singhal-02/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/yash-singhal-02/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -160,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/yash-singhal-02/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/yash-singhal-02/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/yash-singhal-02/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/yash-singhal-02/Leetcode/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/yash-singhal-02/Leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
