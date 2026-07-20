@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/yash-singhal-02/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/yash-singhal-02/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/yash-singhal-02/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/yash-singhal-02/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/yash-singhal-02/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/yash-singhal-02/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/yash-singhal-02/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/yash-singhal-02/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/yash-singhal-02/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/yash-singhal-02/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/yash-singhal-02/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/yash-singhal-02/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yash-singhal-02/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/yash-singhal-02/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/yash-singhal-02/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Divide and Conquer
 |  |
