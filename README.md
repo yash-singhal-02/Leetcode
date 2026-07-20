@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/yash-singhal-02/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/yash-singhal-02/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/yash-singhal-02/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0938-range-sum-of-bst](https://github.com/yash-singhal-02/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/yash-singhal-02/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/yash-singhal-02/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/yash-singhal-02/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/yash-singhal-02/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0938-range-sum-of-bst](https://github.com/yash-singhal-02/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/yash-singhal-02/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/yash-singhal-02/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/yash-singhal-02/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/yash-singhal-02/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0938-range-sum-of-bst](https://github.com/yash-singhal-02/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/yash-singhal-02/Leetcode/tree/master/1260-shift-2d-grid) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/yash-singhal-02/Leetcode/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
