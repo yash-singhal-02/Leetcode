@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/yash-singhal-02/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/yash-singhal-02/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yash-singhal-02/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0152-maximum-product-subarray](https://github.com/yash-singhal-02/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0622-design-circular-queue](https://github.com/yash-singhal-02/Leetcode/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/yash-singhal-02/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/yash-singhal-02/Leetcode/tree/master/0724-find-pivot-index) |
@@ -205,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yash-singhal-02/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/yash-singhal-02/Leetcode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
