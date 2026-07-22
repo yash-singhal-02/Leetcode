@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/yash-singhal-02/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yash-singhal-02/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/yash-singhal-02/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/yash-singhal-02/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yash-singhal-02/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/yash-singhal-02/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/yash-singhal-02/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/yash-singhal-02/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/yash-singhal-02/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/yash-singhal-02/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yash-singhal-02/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/yash-singhal-02/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Matrix
@@ -210,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/yash-singhal-02/Leetcode/tree/master/0152-maximum-product-subarray) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/yash-singhal-02/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/yash-singhal-02/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
