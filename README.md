@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/yash-singhal-02/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/yash-singhal-02/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/yash-singhal-02/Leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/yash-singhal-02/Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/yash-singhal-02/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/yash-singhal-02/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yash-singhal-02/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -191,11 +192,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/yash-singhal-02/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yash-singhal-02/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/yash-singhal-02/Leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/yash-singhal-02/Leetcode/tree/master/0994-rotting-oranges) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/yash-singhal-02/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/yash-singhal-02/Leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/yash-singhal-02/Leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/yash-singhal-02/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
