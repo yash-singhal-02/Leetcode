@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/yash-singhal-02/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/yash-singhal-02/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yash-singhal-02/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yash-singhal-02/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/yash-singhal-02/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0088-merge-sorted-array](https://github.com/yash-singhal-02/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/yash-singhal-02/Leetcode/tree/master/0148-sort-list) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yash-singhal-02/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/yash-singhal-02/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Hash Table
 |  |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yash-singhal-02/Leetcode/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yash-singhal-02/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
